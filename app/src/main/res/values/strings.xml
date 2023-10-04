@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Project 2</string>
+    <string name="app_name">Hallo</string>
+    <string name="nama">Adinda Nurhayati Adriansyah</string>
+    <string name="nim">20210140072</string>
+    <string name="nm1">Princesses</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="btn3">MATCH PARENT</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="cat">Select Your Cat</string>
+    <string name="name">Enter Your Name</string>
+    <string name="ph">Enter Your Phone Number</string>
+    <string name="ad">Enter Your Adress</string>
 </resources>
